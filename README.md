@@ -1,8 +1,3 @@
-# assignment01-egeguvenirdev
-assignment01-egeguvenirdev created by GitHub Classroom
-
-Project Version: 2019.4.18
-
 Game Mechanics:
 
 1- Merging (Merge Town): Begining of the game, you can increase the level of the main ball, which enhances the player's size and power.
